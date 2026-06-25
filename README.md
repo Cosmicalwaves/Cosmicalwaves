@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="yourimagelink" width="700">
+</p><img width="236" height="236" alt="images (7)" src="https://github.com/user-attachments/assets/0e60f792-70d4-454c-8e65-581ecf1f6a68" />
 
 <!--
 **Cosmicalwaves/Cosmicalwaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
