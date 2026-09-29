@@ -1,7 +1,8 @@
 <p align="center">
   <img src="yourimagelink" width="700"> https://cosmicss.atabook.org/
 <p align="center">
-  <img src="yourimagelink" width="700">![Uploading image.png…]()
+  <img src="yourimagelink" width="700">
+</p>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh_L2ikCD9_PsfiYOeoR9ebVqmWOXmXFyo_HrloP5MCQ&s
 
 
 <!--
