@@ -2,7 +2,9 @@
   <img src="yourimagelink" width="700"> https://cosmicss.atabook.org/
 <p align="center">
   <img src="yourimagelink" width="700">
-</p>https://files.catbox.moe/76bscc.jpg
+</p><p align="center">
+  <img src="yourimagelinkhttps://files.catbox.moe/76bscc.jpg" width="700">
+</p>
 
 <!--
 **Cosmicalwaves/Cosmicalwaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
